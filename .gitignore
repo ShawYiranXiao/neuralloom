@@ -1,0 +1,8 @@
+.DS_Store
+*.class
+build/
+application.*/
+NeuralLoom/NeuralLoom-*.png
+__pycache__/
+*.py[cod]
+.venv/
